@@ -1,2 +1,2 @@
-web:npm start
-worker:node notify.js
+web: npm start
+worker: node notify.js
